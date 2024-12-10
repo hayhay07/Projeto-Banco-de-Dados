@@ -5,7 +5,7 @@
 ## Professor: Roger Moura Sarmento
 ## Data: 10/12/2024
 ## Turma: P3
-## Equipe: Hayanna, Éllen, Beatriz e Diuli.
+## Equipe: Hayanna (20231321000028), Éllen, Beatriz e Diuli.
 
 Queatão 01:
 - a
